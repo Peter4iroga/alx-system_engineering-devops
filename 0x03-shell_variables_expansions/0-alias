@@ -1,2 +1,2 @@
 #!/bin/bash
- alias ls=rm 0-aliasi README.md
+ alias ls="rm *"
